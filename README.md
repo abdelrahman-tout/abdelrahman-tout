@@ -84,3 +84,22 @@
     - Support Assistance.
     - Domain name service.
     - Finding Web Solutions.
+
+---
+---
+
+## ***Education***
+---
+
+
+| Entity | Study Field | Year |
+|:---------:|:-------------:|:-----:|
+| Université Libano-Francaise - Tripoli| Bachelor of computer sciences | 2014 - 2017 |
+| El-Qalamoun Institute  | TS1 Networking | 2013 - 2014 |
+| Online Course (Udemy)| Android O App Development Course |  |
+| Online Course (Udemy) | IP Addressing and Subnetting Course  |  |
+| Online Course (Udemy)| The Kali Linux complete training program  |  |
+| Online Course (HP Life e-Learning)| IT For Business Success  |  |
+| Online Course | Penetration Testing  |  |
+| Online Course | Securing Networks from Cyber-Attacks  |  |
+| Online Course | Trading and Market Analysis (Forex and Crypto)  |  |
