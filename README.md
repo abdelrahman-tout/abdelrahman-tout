@@ -22,7 +22,8 @@
      - 4+ years as an  fresh IT Specialist at “Lebanese Army Foundation”. 
      - Bachelor of “Computer sciences” Graduate from Université Libano-Française. 
      - Lot of Programming Languages knowledge (C#, Python, Java, Html5).  
-     - Currently working for Feed Humanity,USA Organization.
+     - Currently working for "Feed Humanity,USA" Organization.
+     - Owner of WEBKEYTECT.
      - Excellent command of Arabic, English, and French.  
 
 ## 🌱 **Objective**
