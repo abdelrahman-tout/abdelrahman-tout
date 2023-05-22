@@ -1,8 +1,11 @@
 # **AbdelRahman Tout**
 
-### Phone: +961 71 933 353 
-### Email: admin@webkeytect.com
+### Since 24/05/2023
+### Mobile: +961 71 933 353 
+### E-mail: admin@webkeytect.com
+### Website : https://webkeytect.com/
 ### Lebanon - El-Qalamoun
+
 
 ---
 ---
@@ -103,3 +106,25 @@
 | Online Course | Penetration Testing  |  |
 | Online Course | Securing Networks from Cyber-Attacks  |  |
 | Online Course | Trading and Market Analysis (Forex and Crypto)  |  |
+
+---
+---
+
+## ***Computer Skills***
+---
+
+- Microsoft Ofiice.
+- Adobe Photoshop.
+- Web Maintenance.
+- Database Management.
+- Microsoft Visual Studio.
+- Trading.
+- Chart Analysis.
+- Dealing with E-mails.
+- Linux OS.
+- Penetration Testing.
+- IP Addressing and Subnetting.
+- Networking.
+- Configuring Modems and Routers.
+- Building LAN.
+
