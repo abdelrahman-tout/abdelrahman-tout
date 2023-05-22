@@ -128,3 +128,16 @@
 - Configuring Modems and Routers.
 - Building LAN.
 
+---
+---
+
+## ***Abilities***
+---
+
+- [x] Working underpressure.
+- [x] Overcomming common problems.
+- [x] Planning for new solutions.
+- [x] Time control.
+- [x] Adaptibility with my work.
+- [x] Team work.
+
