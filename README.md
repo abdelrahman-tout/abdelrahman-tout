@@ -1,17 +1,21 @@
-# **AbdelRahman Tout**
+# **AbdelRahman Tout**  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-### Since 24/05/2023
-### Mobile: +961 71 933 353 
-### E-mail: admin@webkeytect.com
-### Website : https://webkeytect.com/
-### Lebanon - El-Qalamoun
+📅   24/05/2023
+
+📱 +961 71 933 353 
+
+📧 admin@webkeytect.com
+
+🎯 https://webkeytect.com/
+
+🏁 Lebanon - El-Qalamoun
 
 
 ---
 ---
 ---
 
-## **Profile Summary**
+## 👨‍💻 **Profile Summary**
 
      - IT Manager with lot of experience . 
      - 3+ years as an IT Manager “SCIS” company.
@@ -21,17 +25,17 @@
      - Currently working for Feed Humanity,USA Organization.
      - Excellent command of Arabic, English, and French.  
 
-## **Objective**
+## 🌱 **Objective**
 
 #### Seeking a job as an IT Specialit or a Developer where technical and analytical skills can be gained and utilized, with a well-defined career path, where I can grow professionally and be rewarded financially. 
 ---
 ---
 
-## ***Profesional Experience***
+## ⚡ ***Profesional Experience***
 
 ---
 
-### **SCIS - Tripoli (2013 - 2016)**
+### ▶️ **SCIS - Tripoli (2013 - 2016)**
 ### **IT MANAGER**
 
     - Worked as an IT Manager.
@@ -42,7 +46,7 @@
     - Communicating with customers.
     - Assume a proper methodology to simulate the different sudden problems. 
 
-### **Lebanese Army Foundation (2018 - Present)**
+### ▶️ **Lebanese Army Foundation (2018 - Present)**
 ### **IT Specialist**
 
     - Worked as an IT Specialist in the Ministry of Defence.
@@ -53,7 +57,7 @@
     - Helping to maintain and secure networks from cyber attacks.
 
 
-### **Freelancer - Worldwide (2016 - Present)**
+### ▶️ **Freelancer - Worldwide (2016 - Present)**
 ### **Developer**
 
     - Making some Android applications.
@@ -63,7 +67,7 @@
     - Wordpress full website setup.
     - Working with Cpanels and website hostings.
 
-### **Feed Humanity, USA - United Stated (2022 - Present)**
+### ▶️ **Feed Humanity, USA - United Stated (2022 - Present)**
 ### **DevOps**
 
      -Building Websites.
@@ -74,7 +78,7 @@
     - IT Specialist.
     - Finding Web Solutions.
 
-### **WEBKEYTECT (2023 - Present)**
+### ▶️ **WEBKEYTECT (2023 - Present)**
 ### **Owner**
 
     - Agency Owner.
@@ -91,7 +95,7 @@
 ---
 ---
 
-## ***Education***
+## 📊 ***Education***
 ---
 
 
@@ -110,7 +114,7 @@
 ---
 ---
 
-## ***Computer Skills***
+## 🛠️ ***Computer Skills***
 ---
 
 - Microsoft Ofiice.
@@ -131,7 +135,7 @@
 ---
 ---
 
-## ***Abilities***
+## 📈 ***Abilities***
 ---
 
 - [x] Working underpressure.
@@ -141,3 +145,7 @@
 - [x] Adaptibility with my work.
 - [x] Team work.
 
+---
+---
+---
+---
