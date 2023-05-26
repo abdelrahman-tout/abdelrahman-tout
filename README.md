@@ -118,7 +118,7 @@
 ## 🛠️ ***Computer Skills***
 ---
 
-- Microsoft Ofiice.
+- Microsoft Office.
 - Adobe Photoshop.
 - Web Maintenance.
 - Database Management.
