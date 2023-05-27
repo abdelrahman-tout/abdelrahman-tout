@@ -85,7 +85,7 @@
     - Agency Owner.
     - Building Websites.
     - Wordpress full website setup.
-    - Web Design Websites.
+    - Designing Websites.
     - Hosting Websites.
     - Managing Webmails.
     - IT Specialist.
